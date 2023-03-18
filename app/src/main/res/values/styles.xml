@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="getStarted">
+    <item name="backgroundTint">@color/green</item>
+    <item name="android:radius">120dp</item>
+    </style>
+</resources>
